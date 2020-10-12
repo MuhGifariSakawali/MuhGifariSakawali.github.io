@@ -1,0 +1,24 @@
+body{
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #ff2846);
+}
+main {
+    width: 800px;
+    height: 520px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}
+.botnav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	background-color: rgb(100,100,100);
+	width:100%;
+	overflow: hidden;
+}img.rounded-corners {
+    width: 100px;
+    height: 120px;
+    border-radius: 50%;
+  }
